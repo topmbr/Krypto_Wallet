@@ -6,24 +6,24 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Добавить DbContext для подключения к базе данных
+// Подключение к базе данных MySQL
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
-// Регистрация репозиториев и сервисов
-builder.Services.AddScoped<ICryptoQueryRepository, CryptoQueryRepository>();
-builder.Services.AddScoped<ICryptoQueryService, CryptoQueryService>();
+// Регистрация сервисов и репозиториев
+builder.Services.AddScoped<ICryptoPriceRepository, CryptoPriceRepository>();
+builder.Services.AddSingleton<ICryptoCompareApiService, CryptoCompareApiService>(provider =>
+    new CryptoCompareApiService("8e870f3144ea7e864b88d3690940a4b8b887c51dbcebb257e2e97e0d938ba576"));
 
-// Добавление контроллеров
+// Добавление контроллеров и Swagger
 builder.Services.AddControllers();
-
-// Добавление Swagger для документации API
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Настройка конвейера обработки запросов
+// Настройка среды разработки
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -31,9 +31,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

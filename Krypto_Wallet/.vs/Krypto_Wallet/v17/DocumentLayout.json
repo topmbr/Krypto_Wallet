@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|d:\\krypto_mob_app\\krypto_wallet\\krypto_wallet\\krypto_wallet\\models\\cryptorecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|solutionrelative:krypto_wallet\\models\\cryptorecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|d:\\krypto_mob_app\\krypto_wallet\\krypto_wallet\\krypto_wallet\\interfaces\\icryptopricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|solutionrelative:krypto_wallet\\interfaces\\icryptopricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|d:\\krypto_mob_app\\krypto_wallet\\krypto_wallet\\krypto_wallet\\services\\cryptocompareapiservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|solutionrelative:krypto_wallet\\services\\cryptocompareapiservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|d:\\krypto_mob_app\\krypto_wallet\\krypto_wallet\\krypto_wallet\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|solutionrelative:krypto_wallet\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|d:\\krypto_mob_app\\krypto_wallet\\krypto_wallet\\krypto_wallet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|solutionrelative:krypto_wallet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|d:\\krypto_mob_app\\krypto_wallet\\krypto_wallet\\krypto_wallet\\controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|solutionrelative:krypto_wallet\\controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|d:\\krypto_mob_app\\krypto_wallet\\krypto_wallet\\krypto_wallet\\repositories\\cryptopricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|solutionrelative:krypto_wallet\\repositories\\cryptopricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|d:\\krypto_mob_app\\krypto_wallet\\krypto_wallet\\krypto_wallet\\interfaces\\icryptocompareapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|solutionrelative:krypto_wallet\\interfaces\\icryptocompareapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|d:\\krypto_mob_app\\krypto_wallet\\krypto_wallet\\krypto_wallet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|solutionrelative:krypto_wallet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|d:\\krypto_mob_app\\krypto_wallet\\krypto_wallet\\krypto_wallet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17103DD5-EFEB-4912-8304-F56ADFE5724D}|Krypto_Wallet\\Krypto_Wallet.csproj|solutionrelative:krypto_wallet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Krypto_Wallet\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Krypto_Wallet\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:11:24.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICryptoPriceRepository.cs",
+              "DocumentMoniker": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Interfaces\\ICryptoPriceRepository.cs",
+              "RelativeDocumentMoniker": "Krypto_Wallet\\Interfaces\\ICryptoPriceRepository.cs",
+              "ToolTip": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Interfaces\\ICryptoPriceRepository.cs*",
+              "RelativeToolTip": "Krypto_Wallet\\Interfaces\\ICryptoPriceRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:03:20.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CryptoCompareApiServicecs.cs",
+              "DocumentMoniker": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Services\\CryptoCompareApiServicecs.cs",
+              "RelativeDocumentMoniker": "Krypto_Wallet\\Services\\CryptoCompareApiServicecs.cs",
+              "ToolTip": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Services\\CryptoCompareApiServicecs.cs*",
+              "RelativeToolTip": "Krypto_Wallet\\Services\\CryptoCompareApiServicecs.cs*",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:05:26.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CryptoPriceRepository.cs",
+              "DocumentMoniker": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Repositories\\CryptoPriceRepository.cs",
+              "RelativeDocumentMoniker": "Krypto_Wallet\\Repositories\\CryptoPriceRepository.cs",
+              "ToolTip": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Repositories\\CryptoPriceRepository.cs*",
+              "RelativeToolTip": "Krypto_Wallet\\Repositories\\CryptoPriceRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:03:45.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Krypto_Wallet\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Data\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "Krypto_Wallet\\Data\\ApplicationDbContext.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:59:43.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CryptoRecord.cs",
+              "DocumentMoniker": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Models\\CryptoRecord.cs",
+              "RelativeDocumentMoniker": "Krypto_Wallet\\Models\\CryptoRecord.cs",
+              "ToolTip": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Models\\CryptoRecord.cs",
+              "RelativeToolTip": "Krypto_Wallet\\Models\\CryptoRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:59:20.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CryptoController.cs",
+              "DocumentMoniker": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Controllers\\CryptoController.cs",
+              "RelativeDocumentMoniker": "Krypto_Wallet\\Controllers\\CryptoController.cs",
+              "ToolTip": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Controllers\\CryptoController.cs*",
+              "RelativeToolTip": "Krypto_Wallet\\Controllers\\CryptoController.cs*",
+              "ViewState": "AQIAACIAAAAAAAAAAAArwC8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:00:06.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICryptoCompareApiService.cs",
+              "DocumentMoniker": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Interfaces\\ICryptoCompareApiService.cs",
+              "RelativeDocumentMoniker": "Krypto_Wallet\\Interfaces\\ICryptoCompareApiService.cs",
+              "ToolTip": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Interfaces\\ICryptoCompareApiService.cs*",
+              "RelativeToolTip": "Krypto_Wallet\\Interfaces\\ICryptoCompareApiService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:26:00.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\appsettings.json",
+              "RelativeDocumentMoniker": "Krypto_Wallet\\appsettings.json",
+              "ToolTip": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\appsettings.json",
+              "RelativeToolTip": "Krypto_Wallet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T16:29:59.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Program.cs",
+              "RelativeDocumentMoniker": "Krypto_Wallet\\Program.cs",
+              "ToolTip": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Program.cs",
+              "RelativeToolTip": "Krypto_Wallet\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:30:13.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
