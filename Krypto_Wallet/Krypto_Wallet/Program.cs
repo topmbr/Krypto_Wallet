@@ -1,15 +1,29 @@
+using Krypto_Wallet.Data;
+using Krypto_Wallet.Interfaces;
+using Krypto_Wallet.Repositories;
+using Krypto_Wallet.Services;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Добавить DbContext для подключения к базе данных
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+// Регистрация репозиториев и сервисов
+builder.Services.AddScoped<ICryptoQueryRepository, CryptoQueryRepository>();
+builder.Services.AddScoped<ICryptoQueryService, CryptoQueryService>();
+
+// Добавление контроллеров
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+// Добавление Swagger для документации API
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Настройка конвейера обработки запросов
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
