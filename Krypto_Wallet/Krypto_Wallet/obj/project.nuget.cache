@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dYXm4kdtgPYcq5zIlfYTPUwpqufJ5Q76RdHqValKq209LSYnvhrcEvAwse9wBHGewRf/o2LntJEAC8SxRoRI6A==",
+  "dgSpecHash": "7li5zvPiiLIkOX4Sw7SEN20ej77XpWIQwdMXv/1pTwXLHIux3Q2ofQdPtvsi3it5iSrq+GED3G+1+8CwowQ2sw==",
   "success": true,
   "projectFilePath": "D:\\Krypto_mob_app\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet\\Krypto_Wallet.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\пк\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\пк\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\пк\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\пк\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\пк\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",
     "C:\\Users\\пк\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\8.0.2\\pomelo.entityframeworkcore.mysql.8.0.2.nupkg.sha512",
     "C:\\Users\\пк\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
